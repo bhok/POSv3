@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SwagBucks
+Comment=SwagBucks P2P Cryptocurrency
+Comment[fr]=SwagBucks, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SwagBucks, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/swagbucks-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/swagbucks;
+Categories=Office;

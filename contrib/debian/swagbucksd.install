@@ -1,0 +1,2 @@
+debian/bin/swagbucksd usr/bin
+src/swagbucksd usr/lib/swagbucks

@@ -1,7 +1,7 @@
 src/*.exe
-src/blackcoin
-src/blackcoind
-src/test_blackcoin
+src/swagbucks
+src/swagbucksd
+src/test_swagbucks
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.blackcoin
+.swagbucks
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-blackcoin-qt
+swagbucks-qt
 #resources cpp
 qrc_*.cpp
 #qt creator

@@ -1,0 +1,5 @@
+swagbucks-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/swagbucks-qt.desktop usr/share/applications
+debian/swagbucks-qt.protocol usr/share/kde4/services/
