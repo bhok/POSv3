@@ -119,8 +119,13 @@ public:
         assert(hashGenesisBlock == uint256("0x000005a3b4890b53d3ecef70ffd1db15f3d4c57ee211712396d06167ae75384e"));
         assert(genesis.hashMerkleRoot == uint256("0xaa74e9ccbb2f003da48576a5c4499427347211c409c256758649eddee2ba1ab9"));
 
+<<<<<<< HEAD
         vSeeds.push_back(CDNSSeedData("", ""));
         vSeeds.push_back(CDNSSeedData("", ""));
+=======
+        vSeeds.push_back(CDNSSeedData("rat4.blackcoin.co", "seed.blackcoin.co"));
+        vSeeds.push_back(CDNSSeedData("syllabear.tk", "bcseed.syllabear.tk"));
+>>>>>>> refs/remotes/origin/pr/1
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(63);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(125);
