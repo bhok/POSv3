@@ -539,7 +539,7 @@ void ThreadStakeMiner(CWallet *pwallet)
             fTryToSync = true;
             MilliSleep(1000);
         }
-
+        // Number of required nodes for stake
         if (fTryToSync)
         {
             fTryToSync = false;
